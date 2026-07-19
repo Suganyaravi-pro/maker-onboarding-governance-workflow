@@ -4,9 +4,9 @@
 A Power Automate workflow that automates the Maker onboarding and approval process, enforcing mandatory assessment completion before users can request Advanced Citizen Developer access.
 
 ## Problem
-Previously, there was no governance process in place for granting Advanced Citizen Developer access — no assessment existed to validate a maker's readiness before they were given access. This created a gap in compliance and increased the risk of ungoverned citizen development.
+Previously, there was no governance process in place for granting Advanced Citizen Developer access, no assessment existed to validate a maker's readiness before they were given access. This created a gap in compliance and increased the risk of ungoverned citizen development.
 
-## What I Built
+## My Solution
 I designed and built a Power Automate workflow to automate the Maker onboarding and approval process, from assessment submission through to certificate issuance and access approval.
 
 ## Process Flow
@@ -40,7 +40,7 @@ I designed and built a Power Automate workflow to automate the Maker onboarding 
 - Streamlined approver notifications through Teams and Outlook integration
 - Improved compliance with organizational governance policies
 
-## Tech Used
+## Tools
 `Power Automate` `Microsoft Forms` `SharePoint` `MyAccess` `Microsoft Word` `Outlook` `JSON` `OAuth`
 
 ---
